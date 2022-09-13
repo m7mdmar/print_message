@@ -1,0 +1,11 @@
+@use './colors' as * ;
+
+body{
+    background-color: $ground;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5s;
+    }
+    

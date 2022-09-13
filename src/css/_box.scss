@@ -1,0 +1,9 @@
+@use "./colors" as *;
+
+.print-message-box {
+    background-color: $groundBtn;
+    width: 450px;
+    padding: 20px 15px;
+    border : 1px solid #6f6f6f;
+    border-radius: 25px;
+}
